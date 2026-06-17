@@ -1,0 +1,160 @@
+﻿Analyzing runbroclassified...                                   
+
+  error - The name 'LoadingScreenRoute' isn't a class - lib\core\routes\app_router.dart:12:56 - creation_with_non_type
+  error - The name 'OnboardingScreenRoute' isn't a class - lib\core\routes\app_router.dart:14:56 - creation_with_non_type
+  error - The name 'LoginScreenRoute' isn't a class - lib\core\routes\app_router.dart:16:56 - creation_with_non_type
+  error - The method 'OtpScreenRoute' isn't defined for the type 'AppRouter' - lib\core\routes\app_router.dart:18:50 - undefined_method
+  error - The method 'CreateAccountScreenRoute' isn't defined for the type 'AppRouter' - lib\core\routes\app_router.dart:20:50 - undefined_method
+  error - The name 'LocationScreenRoute' isn't a class - lib\core\routes\app_router.dart:22:56 - creation_with_non_type
+  error - The name 'HomeScreenRoute' isn't a class - lib\core\routes\app_router.dart:24:56 - creation_with_non_type
+  error - The method 'ListingsScreenRoute' isn't defined for the type 'AppRouter' - lib\core\routes\app_router.dart:26:50 - undefined_method
+  error - The name 'ListingDetailScreenRoute' isn't a class - lib\core\routes\app_router.dart:28:56 - creation_with_non_type
+  error - The name 'SearchScreenRoute' isn't a class - lib\core\routes\app_router.dart:30:56 - creation_with_non_type
+  error - The name 'CategoriesScreenRoute' isn't a class - lib\core\routes\app_router.dart:32:56 - creation_with_non_type
+  error - The name 'ChatsScreenRoute' isn't a class - lib\core\routes\app_router.dart:34:56 - creation_with_non_type
+  error - The name 'ProfileScreenRoute' isn't a class - lib\core\routes\app_router.dart:38:56 - creation_with_non_type
+  error - The name 'LoadingScreenRoute' isn't a class - lib\core\routes\app_router.dart:40:56 - creation_with_non_type
+  error - The name 'LoadingScreenRoute' isn't a class - lib\core\routes\app_router.dart:65:22 - creation_with_non_type
+  error - The name 'OnboardingScreenRoute' isn't a class - lib\core\routes\app_router.dart:67:22 - creation_with_non_type
+  error - The name 'LoginScreenRoute' isn't a class - lib\core\routes\app_router.dart:69:22 - creation_with_non_type
+  error - The method 'OtpScreenRoute' isn't defined for the type 'AppRouter' - lib\core\routes\app_router.dart:71:16 - undefined_method
+  error - The method 'CreateAccountScreenRoute' isn't defined for the type 'AppRouter' - lib\core\routes\app_router.dart:73:16 - undefined_method
+  error - The name 'LocationScreenRoute' isn't a class - lib\core\routes\app_router.dart:75:22 - creation_with_non_type
+  error - The name 'HomeScreenRoute' isn't a class - lib\core\routes\app_router.dart:77:22 - creation_with_non_type
+  error - The method 'ListingsScreenRoute' isn't defined for the type 'AppRouter' - lib\core\routes\app_router.dart:79:16 - undefined_method
+  error - The name 'ListingDetailScreenRoute' isn't a class - lib\core\routes\app_router.dart:81:22 - creation_with_non_type
+  error - The name 'SearchScreenRoute' isn't a class - lib\core\routes\app_router.dart:83:22 - creation_with_non_type
+  error - The name 'CategoriesScreenRoute' isn't a class - lib\core\routes\app_router.dart:85:22 - creation_with_non_type
+  error - The name 'ChatsScreenRoute' isn't a class - lib\core\routes\app_router.dart:87:22 - creation_with_non_type
+  error - The name 'ProfileScreenRoute' isn't a class - lib\core\routes\app_router.dart:91:22 - creation_with_non_type
+  error - The name 'LoadingScreenRoute' isn't a class - lib\core\routes\app_router.dart:93:22 - creation_with_non_type
+warning - Unused import: 'package:flutter/material.dart' - lib\core\routes\routes.dart:1:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/onboarding_screen.dart' - lib\core\routes\routes.dart:2:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/login_screen.dart' - lib\core\routes\routes.dart:3:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/otp_screen.dart' - lib\core\routes\routes.dart:4:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/create_account_screen.dart' - lib\core\routes\routes.dart:5:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/location_screen.dart' - lib\core\routes\routes.dart:6:8 - unused_import
+warning - Unused import: '../../../features/home/presentation/screens/home_screen.dart' - lib\core\routes\routes.dart:7:8 - unused_import
+warning - Unused import: '../../../features/listings/presentation/screens/listings_screen.dart' - lib\core\routes\routes.dart:8:8 - unused_import
+warning - Unused import: '../../../features/listings/presentation/screens/listing_detail_screen.dart' - lib\core\routes\routes.dart:9:8 - unused_import
+warning - Unused import: '../../../features/search/presentation/screens/search_screen.dart' - lib\core\routes\routes.dart:10:8 - unused_import
+warning - Unused import: '../../../features/home/presentation/screens/categories_screen.dart' - lib\core\routes\routes.dart:11:8 - unused_import
+warning - Unused import: '../../../features/chats/presentation/screens/chats_screen.dart' - lib\core\routes\routes.dart:12:8 - unused_import
+warning - Unused import: '../../../features/chats/presentation/screens/chat_detail_screen.dart' - lib\core\routes\routes.dart:13:8 - unused_import
+warning - Unused import: '../../../features/profile/presentation/screens/profile_screen.dart' - lib\core\routes\routes.dart:14:8 - unused_import
+  error - Target of URI doesn't exist: '../../logic/blocs/auth/auth_bloc.dart' - lib\features\auth\presentation\screens\create_account_screen.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../logic/blocs/auth/auth_event.dart' - lib\features\auth\presentation\screens\create_account_screen.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../logic/blocs/auth/auth_state.dart' - lib\features\auth\presentation\screens\create_account_screen.dart:6:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/app_logo.dart' - lib\features\auth\presentation\screens\create_account_screen.dart:7:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/custom_button.dart' - lib\features\auth\presentation\screens\create_account_screen.dart:8:8 - uri_does_not_exist
+  error - The name 'AuthBloc' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\create_account_screen.dart:36:18 - non_type_as_type_argument
+  error - The method 'RegisterUserEvent' isn't defined for the type '_CreateAccountScreenState' - lib\features\auth\presentation\screens\create_account_screen.dart:37:7 - undefined_method
+  error - The name 'LoginScreen' isn't a class - lib\features\auth\presentation\screens\create_account_screen.dart:49:19 - creation_with_non_type
+  error - The method 'AuthBloc' isn't defined for the type '_CreateAccountScreenState' - lib\features\auth\presentation\screens\create_account_screen.dart:74:28 - undefined_method
+  error - The name 'AuthBloc' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\create_account_screen.dart:78:31 - non_type_as_type_argument
+  error - The name 'AuthState' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\create_account_screen.dart:78:41 - non_type_as_type_argument
+  error - The name 'AuthSuccessState' isn't defined, so it can't be used in an 'is' expression - lib\features\auth\presentation\screens\create_account_screen.dart:80:28 - type_test_with_undefined_name
+warning - Dead code - lib\features\auth\presentation\screens\create_account_screen.dart:91:22 - dead_code
+  error - The name 'AuthFailureState' isn't defined, so it can't be used in an 'is' expression - lib\features\auth\presentation\screens\create_account_screen.dart:91:35 - type_test_with_undefined_name
+  error - The property 'error' can't be unconditionally accessed because the receiver can be 'null' - lib\features\auth\presentation\screens\create_account_screen.dart:95:29 - unchecked_use_of_nullable_value
+  error - The name 'AppLogo' isn't a class - lib\features\auth\presentation\screens\create_account_screen.dart:123:31 - creation_with_non_type
+  error - The method 'CustomButton' isn't defined for the type '_CreateAccountScreenState' - lib\features\auth\presentation\screens\create_account_screen.dart:296:21 - undefined_method
+  error - The name 'AuthLoadingState' isn't defined, so it can't be used in an 'is' expression - lib\features\auth\presentation\screens\create_account_screen.dart:299:43 - type_test_with_undefined_name
+   info - Use the null-aware marker '?' rather than a null check via an 'if' - lib\features\auth\presentation\screens\create_account_screen.dart:425:15 - use_null_aware_elements
+  error - Target of URI doesn't exist: '../../logic/blocs/location/location_bloc.dart' - lib\features\auth\presentation\screens\location_screen.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../logic/blocs/location/location_event.dart' - lib\features\auth\presentation\screens\location_screen.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../logic/blocs/location/location_state.dart' - lib\features\auth\presentation\screens\location_screen.dart:6:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/app_logo.dart' - lib\features\auth\presentation\screens\location_screen.dart:7:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/custom_button.dart' - lib\features\auth\presentation\screens\location_screen.dart:8:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: 'home_screen.dart' - lib\features\auth\presentation\screens\location_screen.dart:9:8 - uri_does_not_exist
+  error - The name 'HomeScreen' isn't a class - lib\features\auth\presentation\screens\location_screen.dart:40:19 - creation_with_non_type
+  error - The name 'AppLogo' isn't a class - lib\features\auth\presentation\screens\location_screen.dart:78:25 - creation_with_non_type
+  error - The name 'LocationBloc' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\location_screen.dart:235:33 - non_type_as_type_argument
+  error - The name 'LocationState' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\location_screen.dart:235:47 - non_type_as_type_argument
+  error - The method 'CustomButton' isn't defined for the type '_LocationScreenState' - lib\features\auth\presentation\screens\location_screen.dart:287:22 - undefined_method
+  error - The name 'LocationBloc' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\location_screen.dart:292:32 - non_type_as_type_argument
+  error - The method 'SelectLocationEvent' isn't defined for the type '_LocationScreenState' - lib\features\auth\presentation\screens\location_screen.dart:292:52 - undefined_method
+warning - Unused import: 'package:flutter/material.dart' - lib\features\auth\presentation\screens\login_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\features\auth\presentation\screens\login_screen.dart:2:8 - unused_import
+warning - Unused import: 'package:flutter_bloc/flutter_bloc.dart' - lib\features\auth\presentation\screens\login_screen.dart:3:8 - unused_import
+  error - Target of URI doesn't exist: '../../../logic/blocs/auth/auth_bloc.dart' - lib\features\auth\presentation\screens\login_screen.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../logic/blocs/auth/auth_event.dart' - lib\features\auth\presentation\screens\login_screen.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../logic/blocs/auth/auth_state.dart' - lib\features\auth\presentation\screens\login_screen.dart:6:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../features/auth/presentation/screens/otp_screen.dart' - lib\features\auth\presentation\screens\login_screen.dart:7:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../features/auth/presentation/screens/create_account_screen.dart' - lib\features\auth\presentation\screens\login_screen.dart:8:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../ui/widgets/app_logo.dart' - lib\features\auth\presentation\screens\login_screen.dart:9:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../ui/widgets/custom_button.dart' - lib\features\auth\presentation\screens\login_screen.dart:10:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/app_logo.dart' - lib\features\auth\presentation\screens\onboarding_screen.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/custom_button.dart' - lib\features\auth\presentation\screens\onboarding_screen.dart:4:8 - uri_does_not_exist
+  error - The name 'LoginScreen' isn't a class - lib\features\auth\presentation\screens\onboarding_screen.dart:22:19 - creation_with_non_type
+  error - The name 'AppLogo' isn't a class - lib\features\auth\presentation\screens\onboarding_screen.dart:54:25 - creation_with_non_type
+  error - The method 'CustomButton' isn't defined for the type '_OnboardingScreenState' - lib\features\auth\presentation\screens\onboarding_screen.dart:413:14 - undefined_method
+  error - The method 'CustomButton' isn't defined for the type '_OnboardingScreenState' - lib\features\auth\presentation\screens\onboarding_screen.dart:451:20 - undefined_method
+  error - Target of URI doesn't exist: '../../logic/blocs/auth/auth_bloc.dart' - lib\features\auth\presentation\screens\otp_screen.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../logic/blocs/auth/auth_event.dart' - lib\features\auth\presentation\screens\otp_screen.dart:6:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../logic/blocs/auth/auth_state.dart' - lib\features\auth\presentation\screens\otp_screen.dart:7:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/app_logo.dart' - lib\features\auth\presentation\screens\otp_screen.dart:8:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: 'home_screen.dart' - lib\features\auth\presentation\screens\otp_screen.dart:10:8 - uri_does_not_exist
+  error - The name 'AuthBloc' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\otp_screen.dart:75:20 - non_type_as_type_argument
+  error - The method 'VerifyOtpEvent' isn't defined for the type '_OtpScreenState' - lib\features\auth\presentation\screens\otp_screen.dart:75:36 - undefined_method
+  error - The name 'AuthBloc' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\otp_screen.dart:103:29 - non_type_as_type_argument
+  error - The name 'AuthState' isn't a type, so it can't be used as a type argument - lib\features\auth\presentation\screens\otp_screen.dart:103:39 - non_type_as_type_argument
+  error - The name 'AuthLoadingState' isn't defined, so it can't be used in an 'is' expression - lib\features\auth\presentation\screens\otp_screen.dart:105:26 - type_test_with_undefined_name
+warning - Dead code - lib\features\auth\presentation\screens\otp_screen.dart:116:20 - dead_code
+  error - The name 'AuthOtpVerifiedState' isn't defined, so it can't be used in an 'is' expression - lib\features\auth\presentation\screens\otp_screen.dart:116:33 - type_test_with_undefined_name
+  error - The property 'isRegistered' can't be unconditionally accessed because the receiver can be 'null' - lib\features\auth\presentation\screens\otp_screen.dart:118:25 - unchecked_use_of_nullable_value
+  error - The name 'HomeScreen' isn't a class - lib\features\auth\presentation\screens\otp_screen.dart:122:31 - creation_with_non_type
+  error - The property 'phoneNumber' can't be unconditionally accessed because the receiver can be 'null' - lib\features\auth\presentation\screens\otp_screen.dart:134:64 - unchecked_use_of_nullable_value
+  error - The name 'AuthFailureState' isn't defined, so it can't be used in an 'is' expression - lib\features\auth\presentation\screens\otp_screen.dart:142:33 - type_test_with_undefined_name
+  error - The property 'error' can't be unconditionally accessed because the receiver can be 'null' - lib\features\auth\presentation\screens\otp_screen.dart:147:27 - unchecked_use_of_nullable_value
+  error - The name 'AppLogo' isn't a class - lib\features\auth\presentation\screens\otp_screen.dart:174:23 - creation_with_non_type
+warning - Unused import: 'package:flutter/material.dart' - lib\features\chats\presentation\screens\chats_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\features\chats\presentation\screens\chats_screen.dart:2:8 - unused_import
+  error - Target of URI doesn't exist: '../../../features/chats/presentation/screens/chat_detail_screen.dart' - lib\features\chats\presentation\screens\chats_screen.dart:3:8 - uri_does_not_exist
+warning - Unused import: '../../../listings/presentation/screens/listings_screen.dart' - lib\features\home\presentation\screens\categories_screen.dart:3:8 - unused_import
+  error - The method 'ListingsScreen' isn't defined for the type 'CategoriesScreen' - lib\features\home\presentation\screens\categories_screen.dart:84:90 - undefined_method
+warning - Unused import: 'package:flutter/material.dart' - lib\features\home\presentation\screens\home_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\features\home\presentation\screens\home_screen.dart:2:8 - unused_import
+  error - Target of URI doesn't exist: '../../../features/search/presentation/screens/search_screen.dart' - lib\features\home\presentation\screens\home_screen.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../features/listings/presentation/screens/listing_detail_screen.dart' - lib\features\home\presentation\screens\home_screen.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../features/chats/presentation/screens/chats_screen.dart' - lib\features\home\presentation\screens\home_screen.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../data/app_data.dart' - lib\features\home\presentation\screens\home_screen.dart:6:8 - uri_does_not_exist
+warning - Unused import: 'package:flutter/material.dart' - lib\features\listings\presentation\screens\listings_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\features\listings\presentation\screens\listings_screen.dart:2:8 - unused_import
+  error - Target of URI doesn't exist: '../../../features/listings/presentation/screens/listing_detail_screen.dart' - lib\features\listings\presentation\screens\listings_screen.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: 'onboarding_screen.dart' - lib\features\loading\presentation\screens\loading_screen.dart:3:8 - uri_does_not_exist
+  error - The name 'OnboardingScreen' isn't a class - lib\features\loading\presentation\screens\loading_screen.dart:63:19 - creation_with_non_type
+warning - Unused import: '../../../listings/presentation/screens/listings_screen.dart' - lib\features\search\presentation\screens\search_screen.dart:3:8 - unused_import
+  error - The method 'ListingsScreen' isn't defined for the type '_SearchScreenState' - lib\features\search\presentation\screens\search_screen.dart:54:93 - undefined_method
+  error - The method 'ListingsScreen' isn't defined for the type '_SearchScreenState' - lib\features\search\presentation\screens\search_screen.dart:101:98 - undefined_method
+  error - The method 'ListingsScreen' isn't defined for the type '_SearchScreenState' - lib\features\search\presentation\screens\search_screen.dart:139:98 - undefined_method
+  error - The method 'ListingsScreen' isn't defined for the type '_SearchScreenState' - lib\features\search\presentation\screens\search_screen.dart:176:94 - undefined_method
+warning - Unused import: 'package:flutter/material.dart' - lib\ui\screens\chats_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\ui\screens\chats_screen.dart:2:8 - unused_import
+warning - Unused import: '../../../features/chats/presentation/screens/chat_detail_screen.dart' - lib\ui\screens\chats_screen.dart:3:8 - unused_import
+  error - The name 'LoginScreen' isn't a class - lib\ui\screens\create_account_screen.dart:49:19 - creation_with_non_type
+   info - Use the null-aware marker '?' rather than a null check via an 'if' - lib\ui\screens\create_account_screen.dart:425:15 - use_null_aware_elements
+warning - Unused import: 'package:flutter/material.dart' - lib\ui\screens\home_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\ui\screens\home_screen.dart:2:8 - unused_import
+warning - Unused import: '../../../features/search/presentation/screens/search_screen.dart' - lib\ui\screens\home_screen.dart:3:8 - unused_import
+warning - Unused import: '../../../features/listings/presentation/screens/listing_detail_screen.dart' - lib\ui\screens\home_screen.dart:4:8 - unused_import
+warning - Unused import: '../../../features/chats/presentation/screens/chats_screen.dart' - lib\ui\screens\home_screen.dart:5:8 - unused_import
+warning - Unused import: '../../../data/app_data.dart' - lib\ui\screens\home_screen.dart:6:8 - unused_import
+warning - Unused import: 'package:flutter/material.dart' - lib\ui\screens\listings_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\ui\screens\listings_screen.dart:2:8 - unused_import
+warning - Unused import: '../../../features/listings/presentation/screens/listing_detail_screen.dart' - lib\ui\screens\listings_screen.dart:3:8 - unused_import
+  error - The name 'HomeScreen' isn't a class - lib\ui\screens\location_screen.dart:40:19 - creation_with_non_type
+warning - Unused import: 'package:flutter/material.dart' - lib\ui\screens\login_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:google_fonts/google_fonts.dart' - lib\ui\screens\login_screen.dart:2:8 - unused_import
+warning - Unused import: 'package:flutter_bloc/flutter_bloc.dart' - lib\ui\screens\login_screen.dart:3:8 - unused_import
+warning - Unused import: '../../../logic/blocs/auth/auth_bloc.dart' - lib\ui\screens\login_screen.dart:4:8 - unused_import
+warning - Unused import: '../../../logic/blocs/auth/auth_event.dart' - lib\ui\screens\login_screen.dart:5:8 - unused_import
+warning - Unused import: '../../../logic/blocs/auth/auth_state.dart' - lib\ui\screens\login_screen.dart:6:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/otp_screen.dart' - lib\ui\screens\login_screen.dart:7:8 - unused_import
+warning - Unused import: '../../../features/auth/presentation/screens/create_account_screen.dart' - lib\ui\screens\login_screen.dart:8:8 - unused_import
+warning - Unused import: '../../../ui/widgets/app_logo.dart' - lib\ui\screens\login_screen.dart:9:8 - unused_import
+warning - Unused import: '../../../ui/widgets/custom_button.dart' - lib\ui\screens\login_screen.dart:10:8 - unused_import
+  error - The name 'LoginScreen' isn't a class - lib\ui\screens\onboarding_screen.dart:22:19 - creation_with_non_type
+  error - The name 'HomeScreen' isn't a class - lib\ui\screens\otp_screen.dart:122:31 - creation_with_non_type
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\custom_button.dart:38:46 - deprecated_member_use
+
